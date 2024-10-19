@@ -10,6 +10,8 @@ public class Hello_World {
 		System.out.println(name + address);
 		System.out.println("Gracy Beula is very good girl");
 		System.out.println("She choose a doctor module");
+		System.out.println("********************");
+		System.out.println("**************");
 
 	}
 
